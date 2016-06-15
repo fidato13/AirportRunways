@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# removing target files
+target/
+project/project
+project/target
+/bin/
+.cache-main
+.cache-tests
+.classpath
+.settings
+.project
+.worksheet
